@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-color-1{
+    background-color: rgb(31, 30, 30);
+}
+
+.bg-color-2{
+    background-color: rgb(27, 27, 27);
+}
+
+.tx-color-2{
+    color: rgb(101, 98, 98);
+}
