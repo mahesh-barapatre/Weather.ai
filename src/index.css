@@ -13,3 +13,25 @@
 .tx-color-2{
     color: rgb(101, 98, 98);
 }
+
+/* FavoriteLocations.css */
+
+/* WebKit */
+::-webkit-scrollbar {
+  width: 1px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #1a1a1a;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #737373;
+  border-radius: 6px;
+}
+
+/* Firefox */
+.scrollbar {
+  scrollbar-color: #737373 #1a1a1a;
+  scrollbar-width: none;
+}
